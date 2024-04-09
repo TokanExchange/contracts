@@ -1,0 +1,11 @@
+.vscode
+bin
+node_modules
+.deps
+*/artifacts
+*/*/artifacts
+.env
+artifacts
+.openzeppelin
+cache
+.upgradable

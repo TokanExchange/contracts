@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethers": "^5.7.2",
+    "fs-extra": "^11.2.0",
+    "hardhat": "^2.19.4",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@nomicfoundation/hardhat-verify": "^2.0.3",
+    "@openzeppelin/contracts": "^4.9.3",
+    "@openzeppelin/contracts-upgradeable": "^4.9.3",
+    "@openzeppelin/hardhat-upgrades": "^1.22.1",
+    "@types/chai": "^4.3.11",
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^20.8.2",
+    "chai": "^4.3.7",
+    "ts-node": "^10.9.2"
+  }
+}
